@@ -40,3 +40,26 @@ nothing here yet...
 - ACL 2019: SemBleu: A Robust Metric for AMR Parsing Evaluation.[[paper](https://aclanthology.org/P19-1446.pdf)][[code](https://github.com/freesunshine0316/sembleu)] *Note: this paper is about a new evaluation method(metric), but not a new method*
 - ACL 2019: Rewarding Smatch: Transition-Based AMR Parsing with Reinforcement Learning[[paper](https://aclanthology.org/P19-1451.pdf)]
 - IJCAI 2019: Modeling Source Syntax and Semantics for Neural AMR Parsing[[paper](https://www.ijcai.org/proceedings/2019/0691.pdf)]
+
+## Top smatches
+
+AMR 2.0(LDC2017T10), top 2 models of each year:
+
+|  Yr   | Smatch | Paper name                                                                                                     |
+| :---: | :----: | :------------------------------------------------------------------------------------------------------------- |
+| 2021  | 86.26  | Ensembling Graph Predictions for AMR Parsing\[NeurIPS2021\]                                                    |
+| 2021  |  84.7  | Structure-aware Fine-tuning of Sequence-to-sequence Transformers for Transition-based AMR Parsing\[EMNLP2021\] |
+| 2020  |  81.4  | Improving AMR Parsing with Sequence-to-Sequence Pre-training\[EMNLP2020\]                                      |
+| 2020  |  81.3  | Pushing the Limits of AMR Parsing with Self-Learning\[Findings of ACL 2020\]                                   |
+| 2019  |  77.0  | Broad-Coverage Semantic Parsing as Transduction[IJCNLP2019]                                                    |
+| 2019  |  76.3  | AMR Parsing as Sequence-to-Graph Transduction[ACL2019]                                                         |
+
+AMR 3.0(LDC2020T02), top 3 models of each year(currently 2021 only):
+
+|  Yr   | Smatch | Paper name                                                                                             |
+| :---: | :----: | :----------------------------------------------------------------------------------------------------- |
+| 2021  | 84.87  | Ensembling Graph Predictions for AMR Parsing\[NeurIPS2021\]                                            |
+| 2021  |  83.0  | One SPRING to Rule Them Both: Symmetric AMR Semantic Parsing and Generation without a Complex Pipeline |
+| 2021  |  82.7  | Structure-aware Fine-tuning of Sequence-to-sequence Transformers for Transition-based AMR Parsing      |
+
+As for AMR 1.0, it is a little bit old(2014) and small, so few articles still use this corpora as benchmark. Therefore it is not listed.
