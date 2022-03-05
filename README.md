@@ -7,9 +7,9 @@ In this page we collect papers about English AMR parsing in recent years(2019-20
 | 2022  |   -   |   -   |   -   |   -   |   -   |   -    |   0   |    -    |   0   |
 | 2021  |   0   |   1   |   1   |   0   |   2   |   -    |   0   |    1    |   5   |
 | 2020  |   2   |   -   |   0   |   0   |   2   |   0    |   0   |    0    |   4   |
-| 2019  |   3   |   0   |   0   |   1   |   1   |   -    |   0   |    0    |   5   |
+| 2019  |   4   |   0   |   0   |   1   |   2   |   -    |   0   |    0    |   7   |
 |       |
-| total |   5   |   1   |   1   |   1   |   5   |   0    |   0   |    1    |  14   |
+| total |   6   |   1   |   1   |   1   |   6   |   0    |   0   |    1    |  16   |
 
 Grids marked with a '-' indicates the conference is not yet started, not held in that year, or proceedings is not yet available.
 
